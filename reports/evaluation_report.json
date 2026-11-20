@@ -1,0 +1,142 @@
+{
+    "total_questions": 25,
+    "answerable_questions": 22,
+    "unanswerable_questions": 3,
+    "hit_at_1": 0.9091,
+    "hit_at_3": 0.9545,
+    "hit_at_4": 0.9545,
+    "question_results": [
+        {
+            "question": "How many days of annual leave do employees receive?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "How many days in advance should planned leave be requested?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "Who approves employee leave requests?",
+            "hit_at_1": 0.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "How many days notice must employees provide before resignation?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "Where should resignation letters be submitted?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What are the office working hours?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "Which days are the regular working days?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "How many working days does Finance take to process approved reimbursements?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What is required when submitting expense claims?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "Who must approve business travel expenses?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What benefits do employees receive?",
+            "hit_at_1": 0.0,
+            "hit_at_3": 0.0,
+            "hit_at_4": 0.0
+        },
+        {
+            "question": "Who manages employee records and recruitment?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What must a strong password contain?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "Can employees share their passwords?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "Who approves work from home requests?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "How should employees report suspicious emails?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What should employees do before leaving the company?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What are the rules for employees working remotely?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What are the requirements for employee expense reimbursement?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What responsibilities does the HR department have?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What are the employee leave and sick leave procedures?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        },
+        {
+            "question": "What security practices must employees follow?",
+            "hit_at_1": 1.0,
+            "hit_at_3": 1.0,
+            "hit_at_4": 1.0
+        }
+    ]
+}

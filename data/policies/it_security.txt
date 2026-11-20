@@ -1,0 +1,11 @@
+IT SECURITY POLICY
+
+Employees must use strong passwords containing uppercase letters, lowercase letters, numbers, and special characters.
+
+Passwords must not be shared with anyone.
+
+Company data must not be transferred to unauthorized devices.
+
+Employees must report suspicious emails to the IT department.
+
+All company devices must use approved security software.

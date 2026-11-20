@@ -1,0 +1,9 @@
+RAG EVALUATION REPORT
+
+Total Questions: 25
+Answerable Questions: 22
+Unanswerable Questions: 3
+
+Hit@1: 0.9091
+Hit@3: 0.9545
+Hit@4: 0.9545

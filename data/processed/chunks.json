@@ -1,0 +1,74 @@
+[
+  {
+    "id": "61f65841dc14ad8d00eaf9f0b89e5e34505053aa2ccbb3e62cc469113814ec5a",
+    "text": "ATTENDANCE POLICY Office working hours are 9:00 AM to 6:00 PM, Monday to Friday. Employees must arrive on time and record their attendance using the company attendance system. Employees should inform their manager if they expect to arrive late. Repeated unauthorized absences may result in disciplinary action.",
+    "metadata": {
+      "source": "attendance_policy.txt",
+      "page": 1,
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "48e86ba9e20f49a0abba1e1773733686e741800636d0d1d0b1c2e8e5f06c6f46",
+    "text": "EMPLOYEE BENEFITS POLICY Employees receive health insurance benefits. Eligible employees can participate in company training programs. The company provides professional development opportunities. Employees can contact HR for benefit-related questions. Health insurance coverage details are provided during employee onboarding.",
+    "metadata": {
+      "source": "employee_benefits.txt",
+      "page": 1,
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "d79eb74ed5ac00b9daaeaafddb63bc174e2c53fec7d6606ae6c6c251be7571f2",
+    "text": "FINANCE POLICY Employees must submit expense claims with valid receipts. Business travel expenses require manager approval before travel. The Finance department processes approved reimbursements within 10 working days. All expenses must follow company financial guidelines. Personal expenses cannot be claimed as business expenses.",
+    "metadata": {
+      "source": "finance_policy.txt",
+      "page": 1,
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "cf38f9ef1624b416cd46012412d5532785e2a75513a02f643d4e3e2529d79752",
+    "text": "HR POLICY The Human Resources department manages employee records, recruitment, onboarding, and employee relations. All employees must follow company policies. Employees can contact the HR department for workplace issues. The HR department is responsible for maintaining employee information and supporting employee development.",
+    "metadata": {
+      "source": "hr_policy.txt",
+      "page": 1,
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "0c92b9a4a4a9f6ee4e89ed87de0c4acc27a54ee2b5fd822ace2d1b20a3eec8b1",
+    "text": "IT SECURITY POLICY Employees must use strong passwords containing uppercase letters, lowercase letters, numbers, and special characters. Passwords must not be shared with anyone. Company data must not be transferred to unauthorized devices. Employees must report suspicious emails to the IT department. All company devices must use approved security software.",
+    "metadata": {
+      "source": "it_security.txt",
+      "page": 1,
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "39be67f6649a65634b3e5918710964d9ebcb4a0258c1b020384c5075a7a78f24",
+    "text": "LEAVE POLICY Employees receive 18 days of paid annual leave every year. Employees must submit leave requests to their manager for approval. Sick leave requires notification to the manager. Employees should request planned leave at least 5 working days in advance. Unused annual leave is handled according to company policy.",
+    "metadata": {
+      "source": "leave_policy.txt",
+      "page": 1,
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "7b6d61582bcb689b994e6cc9d325ace71b64f2555f16cb8a18b854a3e76d61a8",
+    "text": "RESIGNATION POLICY Employees must provide 30 days notice before resignation. Resignation letters must be submitted to the HR department. Employees must complete all exit formalities before leaving the company. Company property must be returned before the final working day. Final settlement is processed according to company policy.",
+    "metadata": {
+      "source": "resignation_policy.txt",
+      "page": 1,
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "45d893f817158c5bcc49a39b44301df4175cbc7b5476ca3eab6ac68a4c1cd1d1",
+    "text": "WORK FROM HOME POLICY Employees may request work from home with manager approval. Employees must remain available during official working hours from 9:00 AM to 6:00 PM. Company data must be accessed only through approved secure systems. Employees working remotely must attend scheduled team meetings. Managers are responsible for approving work-from-home requests.",
+    "metadata": {
+      "source": "work_from_home.txt",
+      "page": 1,
+      "chunk_index": 0
+    }
+  }
+]
